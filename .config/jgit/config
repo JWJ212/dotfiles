@@ -1,0 +1,3 @@
+[filesystem "Red Hat, Inc.|17.0.9|/dev/mapper/fedora-root"]
+	timestampResolution = 2823 nanoseconds
+	minRacyThreshold = 1913 microseconds
