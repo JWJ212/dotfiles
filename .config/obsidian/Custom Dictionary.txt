@@ -1,4 +1,0 @@
-Asymptotes
-asymptote
-asymptotes
-checksum_v1 = 51c121501f6a67ae27a18cba5c926fb4
